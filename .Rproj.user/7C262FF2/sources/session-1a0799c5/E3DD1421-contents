@@ -1,0 +1,5 @@
+---
+title: "Simple Linear Regression Slides"
+---
+
+{{< include slides.qmd >}}

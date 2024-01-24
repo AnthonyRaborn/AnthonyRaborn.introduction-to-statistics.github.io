@@ -1,0 +1,22 @@
+project:
+  type: book
+
+book: 
+  title: "Introduction to Statistics"
+  subtitle: "University of Florida"
+  author: "Anthony Raborn"
+  date: last-modified
+  chapters:
+    - index.qmd
+    - part: "Lecture Notes - Simple Linear Regression"
+      chapters:
+        - 01-simple-linear-regression.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

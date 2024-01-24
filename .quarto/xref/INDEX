@@ -1,0 +1,11 @@
+{
+  "index.qmd": {
+    "index.html": "27121d5e"
+  },
+  "about.qmd": {
+    "about.html": "9c79f9a3"
+  },
+  "01-simple-linear-regression.qmd": {
+    "01-simple-linear-regression.html": "2261fd01"
+  }
+}
