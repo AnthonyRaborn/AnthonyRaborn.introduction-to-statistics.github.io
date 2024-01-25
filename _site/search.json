@@ -67,14 +67,7 @@
     "href": "simple-linear-regression-slides-1.html#end",
     "title": "Simple Linear Regression",
     "section": "End",
-    "text": "End\nQuestions?\nLecture available at:\nhttps://github.com/AnthonyRaborn/introduction-to-statistics/\n\nAny questions?\n(can I find a picture to add here?)"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "End\nQuestions?\nLecture available at:\nhttps://anthonyraborn.github.io\n\nAny questions?\n(can I find a picture to add here?)"
   },
   {
     "objectID": "01-simple-linear-regression.html",
@@ -151,7 +144,7 @@
     "href": "01-simple-linear-regression.html#end",
     "title": "Simple Linear Regression",
     "section": "End",
-    "text": "End\nQuestions?\nLecture available at:\nhttps://github.com/AnthonyRaborn/introduction-to-statistics/\n\nAny questions?\n(can I find a picture to add here?)"
+    "text": "End\nQuestions?\nLecture available at:\nhttps://anthonyraborn.github.io\n\nAny questions?\n(can I find a picture to add here?)"
   },
   {
     "objectID": "01-simple-linear-regression.html#outline-for-subsequent-lectures-in-simple-linear-regression",
@@ -165,6 +158,6 @@
     "href": "index.html",
     "title": "About",
     "section": "",
-    "text": "About\nThis is a repository for lecture notes in Quarto book format. These lecture notes are formed from accompanying slides that use the Reveal.js framework."
+    "text": "About\nThis is a sample website for lecture notes using Quarto. These lecture notes are formed from accompanying slides that use the Reveal.js framework."
   }
 ]
