@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: a77393c0-6c7c-4454-adda-c04d2e95063b
+      url: 'https://anthony-raborn.quarto.pub/introduction-to-statistics'

@@ -599,7 +599,7 @@ Questions?
 
 Lecture available at:
 
-https://anthonyraborn.github.io
+<https://anthony-raborn.quarto.pub/introduction-to-statistics/>
 
 ::: notes
 Any questions?
