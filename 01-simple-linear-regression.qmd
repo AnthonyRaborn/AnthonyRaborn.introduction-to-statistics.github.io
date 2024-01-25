@@ -23,10 +23,6 @@ Below are the lecture notes, based on the slides, for the first Simple Linear Re
 -   These are important for the quality of our model inferences.
 :::
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 946b5fb0f27eca67d94b53276b2925a05848ea49
 ### Diagnosing Model Assumptions
 
 #### Linear relationship
@@ -311,7 +307,3 @@ plot(nonequal_errors_lm)
 -   Analysis of Variance (ANOVA)
 -   Multivariate regression
 :::
-<<<<<<< HEAD
-=======
-
->>>>>>> 946b5fb0f27eca67d94b53276b2925a05848ea49
