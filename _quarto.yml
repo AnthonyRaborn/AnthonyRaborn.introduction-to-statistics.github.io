@@ -1,5 +1,9 @@
 project:
+<<<<<<< HEAD
   type: website
+=======
+  type: book
+>>>>>>> 946b5fb0f27eca67d94b53276b2925a05848ea49
   output-dir: docs
 
 book: 
