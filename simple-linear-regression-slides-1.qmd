@@ -8,7 +8,6 @@ format:
   revealjs:
     theme: dark
     css: styles.css
-
 editor_options: 
   chunk_output_type: console
 ---
@@ -600,9 +599,9 @@ Questions?
 
 Lecture available at:
 
-https://github.com/AnthonyRaborn/introduction-to-statistics/
+https://anthonyraborn.github.io
 
-::: {.notes}
+::: notes
 Any questions?
 
 (can I find a picture to add here?)
